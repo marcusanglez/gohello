@@ -1,1 +1,1 @@
-updating a file through github's rest api
+updating a file through github's rest repos/{owner}/{repo}/git/blobs 
